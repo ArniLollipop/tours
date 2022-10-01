@@ -1,0 +1,14 @@
+{
+  "name": "new_file",
+  "version": "1.0.0",
+  "description": "Landing",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
